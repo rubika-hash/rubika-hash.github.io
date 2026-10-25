@@ -1,12 +1,11 @@
 {
-  "show": false,
-  "force_update": false,
-  "min_version": 412,
-  "latest_version": "4.1.2",
-  "changes": [
-    "رفع اشکال‌ها",
-    "بهبود سرعت",
-    "افزودن قابلیت قفل چت‌ها"
-  ],
-  "update_link": "https://github.com/USER/REPO/releases/latest"
+  "show": true,
+  "id": "promo1",
+  "force_click": false,
+  "image": "https://raw.githubusercontent.com/rubika-hash/rubika-hash.github.io/main/banner.png",
+  "title": "کانال تیکالرن",
+  "text": "اگر دوست داشتید به این کانال بپیوندید",
+  "button": "پیوستن",
+  "later": "بعدا",
+  "link": "https://rubika.ir/TikaLearn"
 }
