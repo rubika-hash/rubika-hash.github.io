@@ -1,10 +1,13 @@
 {
   "show": true,
-  "id": "promo1",
-  "title": "کانال تیکالرن",
-  "text": "اگر دوست داشتید به این کانال بپیوندید",
-  "button": "پیوستن",
-  "later": "بعدا",
-  "dismiss": "این پیام را نمایش نده",
-  "link": "https://rubika.ir/TikaLearn"
+  "id": "promo-001",
+  "title": "...",
+  "text": "...",
+  "button": "مشاهده",
+  "link": "https://example.com",
+
+  "force_update": false,
+  "min_version": 411,
+  "min_version_name": "4.1.1",
+  "update_link": "https://github.com/USER/REPO/releases/latest"
 }
