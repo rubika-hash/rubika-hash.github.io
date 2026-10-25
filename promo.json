@@ -1,6 +1,6 @@
 {
   "show": false,
-  "force_update": true,
+  "force_update": false,
   "min_version": 412,
   "latest_version": "4.1.2",
   "changes": [
