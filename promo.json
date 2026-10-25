@@ -1,13 +1,9 @@
 {
-  "show": true,
-  "id": "promo1",
-  "title": "...",
-  "text": "...",
-  "button": "مشاهده",
-  "link": "https://example.com",
-
-  "force_update": false,
-  "min_version": 411,
-  "min_version_name": "4.1.1",
-  "update_link": "https://github.com/USER/REPO/releases/latest"
+  "show": false,
+  "force_update": true,
+  "min_version": 412,
+  "update_link": "https://github.com/USER/REPO/releases/latest",
+  "update_title": "به‌روزرسانی به نسخه جدید",
+  "update_text": "تغییرات اخیر:\n• مورد اول\n• مورد دوم",
+  "update_button": "به‌روزرسانی"
 }
