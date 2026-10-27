@@ -1,7 +1,7 @@
 {
   "force_update": true,
-  "min_version": 410,
-  "latest_version": "4.1.0",
+  "min_version": 412,
+  "latest_version": "4.1.2",
   "changes": [
     "رفع اشکال‌ها",
     "بهبود سرعت"
